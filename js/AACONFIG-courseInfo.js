@@ -33,8 +33,11 @@ var courseInfo = {
             lab: new Lab("Lab 3: Value semantics in C++", "labs/lab03.html")
         },
         {
-            topic: new  DoubleTopic( "Linked Lists", "lectures/LinkedList_lecture.pdf", "Doubly Linked Lists", "lectures/DoublyLinkedList_lecture.pdf" ),
+            topic: new Topic( "Linked Lists", "lectures/LinkedList_lecture.pdf" )
 //             lab: new Lab("Lab 4: Benchmarking vector and list", "labs/lab04.html")
+        },
+        {
+            topic: new Topic( "Doubly Linked Lists", "lectures/DoublyLinkedList_lecture.pdf" ),
             lab: new Lab("Lab 5: Linked list implementation", "labs/lab05.html"),
             assign: new Assignment("Doubly Linked List", "assign/assign02.html", 7)
         },
@@ -64,7 +67,7 @@ var courseInfo = {
         {
             topic: new Topic( "Binary Search Trees (Insert / Remove)", "" ),
             handout: new Handout("Handout: BST (Remove)", "activities/4 - BST Remove.pdf"),
-            assign: new Assignment("BST", "assign/assign05.html", 18)
+            assign: new Assignment("BST", "assign/assign05.html", 21)
         },
         {
             topic: new Topic( "AVL Trees (Insert)", "lectures/AVL_Trees.pdf" ),
