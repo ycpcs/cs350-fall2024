@@ -1,0 +1,5 @@
+/_site
+/.idea
+*.swp
+.DS_Store
+*.bak
