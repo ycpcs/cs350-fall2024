@@ -72,32 +72,32 @@ var courseInfo = {
 
 
 // Fall 2024 - adjusted due to surgery        
-//         {
-//             topic: new Topic( "AVL Trees (Insert)", "lectures/AVL_Trees.pdf" ),
-//             handout: new Handout("Handout: AVL Trees (Insert)", "activities/5 - AVL Trees Insert.pdf")
-//         },
-//         {
-//             topic: new Topic( "AVL Trees (Remove)", "" ),
-//             handout: new Handout("Handout: AVL Trees (Remove)", "activities/6 - AVL Trees Remove.pdf")
-//         },
-//         {
-//             topic: new Topic( "Red-Black Trees", "lectures/Red-Black_Trees.pdf" ),
-//             handout: new Handout("Handout: Red-Black Trees (Insert)", "activities/7 - Red-Black Trees Insert.pdf")
-//         },
-//         {
-//             topic: new Topic( "Red-Black Trees (Cont.)", "" ),
-//             handout: new Handout("Handout: Red-Black Trees (Insert More)", "activities/8 - Red-Black Trees Insert 2.pdf")
-//         },
         {
-            topic: new Topic( "AVL Trees", "lectures/AVL_Trees.pdf" ),
-            lab: new Lab("Handout: AVL Trees (Insert)", "activities/5 - AVL Trees Insert.pdf"),
+            topic: new Topic( "AVL Trees (Insert)", "lectures/AVL_Trees.pdf" ),
+            handout: new Handout("Handout: AVL Trees (Insert)", "activities/5 - AVL Trees Insert.pdf")
+        },
+        {
+            topic: new Topic( "AVL Trees (Remove)", "" ),
             handout: new Handout("Handout: AVL Trees (Remove)", "activities/6 - AVL Trees Remove.pdf")
         },
         {
             topic: new Topic( "Red-Black Trees", "lectures/Red-Black_Trees.pdf" ),
-            lab: new Lab("Handout: Red-Black Trees (Insert)", "activities/7 - Red-Black Trees Insert.pdf"),
-            handout: new Handout("Handout: Red-Black Trees (Insert More)", "activities/8 - Red-Black Trees Insert 2.pdf")            
+            handout: new Handout("Handout: Red-Black Trees (Insert)", "activities/7 - Red-Black Trees Insert.pdf")
         },
+        {
+            topic: new Topic( "Red-Black Trees (Cont.)", "" ),
+            handout: new Handout("Handout: Red-Black Trees (Insert More)", "activities/8 - Red-Black Trees Insert 2.pdf")
+        },
+//         {
+//             topic: new Topic( "AVL Trees", "lectures/AVL_Trees.pdf" ),
+//             lab: new Lab("Handout: AVL Trees (Insert)", "activities/5 - AVL Trees Insert.pdf"),
+//             handout: new Handout("Handout: AVL Trees (Remove)", "activities/6 - AVL Trees Remove.pdf")
+//         },
+//         {
+//             topic: new Topic( "Red-Black Trees", "lectures/Red-Black_Trees.pdf" ),
+//             lab: new Lab("Handout: Red-Black Trees (Insert)", "activities/7 - Red-Black Trees Insert.pdf"),
+//             handout: new Handout("Handout: Red-Black Trees (Insert More)", "activities/8 - Red-Black Trees Insert 2.pdf")            
+//         },
 
 
 
